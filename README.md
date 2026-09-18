@@ -15,6 +15,16 @@ para desplegarse en la nube con **Gunicorn** y **Render**.
 > 👤 Autor: **Pedro Juan Mendoza Ovallos** — Estudiante de Ingeniería de Software II
 
 ---
+## 🖼️ Evidencias
+
+Enlace del Fork:
+https://github.com/AsterStar45/mi_proyecto_python/tree/main
+
+Pull Request:
+https://github.com/g3in-unilasallista/mi_proyecto_python/pull/4
+
+Render:
+https://mi-proyecto-python-jstp.onrender.com/
 
 ## 🖼️ Evidencias del Proyecto
 
@@ -22,7 +32,7 @@ para desplegarse en la nube con **Gunicorn** y **Render**.
 |---|---|
 | ![Vista 1](sources/img1.png) | ![Vista 2](sources/img2.png) |
 | ![Vista 3](sources/img3.png) | ![Vista 4](sources/img4.png) |
-| ![Vista 5](sources/img5.png) | |
+| ![Vista 5](sources/img5.png) | ![Vista 6](sources/img6.png) |
 
 ---
 
