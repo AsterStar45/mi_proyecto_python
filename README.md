@@ -42,6 +42,7 @@ https://mi-proyecto-python-jstp.onrender.com/
 | ![Vista 1](sources/img1.png) | ![Vista 2](sources/img2.png) |
 | ![Vista 3](sources/img3.png) | ![Vista 4](sources/img4.png) |
 | ![Vista 5](sources/img5.png) | ![Vista 6](sources/img6.png) |
+| ![Vista 7](sources/img7.png) |
 
 ---
 
@@ -51,7 +52,7 @@ https://mi-proyecto-python-jstp.onrender.com/
 - **Sección creativa "Sobre mí"** con el nombre del autor, rol animado (efecto de escritura),
   biografía y etiquetas del stack tecnológico.
 - **Quiz: Stack y Arquitecturas de Software**
-  - 10 preguntas sobre stacks tecnológicos y estilos arquitectónicos (monolito, capas,
+  - Un banco de preguntas sobre stacks tecnológicos y estilos arquitectónicos (monolito, capas,
     cliente-servidor, microservicios, SOA, REST…).
   - Interfaz en JavaScript sin recarga de página.
   - Validación en el servidor Flask: puntaje, porcentaje, estados correcto/incorrecto y
@@ -93,7 +94,7 @@ Ejemplo de respuesta:
 ```json
 {
   "score": 8,
-  "total": 10,
+  "total": 1,
   "percentage": 80,
   "passed": true,
   "results": [
