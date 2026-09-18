@@ -15,6 +15,15 @@ para desplegarse en la nube con **Gunicorn** y **Render**.
 > 👤 Autor: **Pedro Juan Mendoza Ovallos** — Estudiante de Ingeniería de Software II
 
 ---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Backend**: Python 3, Flask, Gunicorn
+- **Frontend**: HTML5, Vanilla CSS3 (Variables CSS, Flexbox, CSS Grid, Glassmorphism, Micro-animaciones)
+- **Recursos**: SVG Vectorial puro, Google Fonts (*Playfair Display* & *Plus Jakarta Sans*)
+- **Despliegue**: Render, Git & GitHub
+
+---
 ## 🖼️ Evidencias
 
 Enlace del Fork:
